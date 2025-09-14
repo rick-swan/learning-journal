@@ -3,6 +3,7 @@
 Use this page to navigate certifications, projects, and resources.
 
 ## 🎯 Certifications
+
 - [AZ-204 (Azure Developer)](certifications/az-204/weekly-note-template.md)
 - [AI-102 (Azure AI Engineer)](certifications/ai-102/weekly-note-template.md)
 - [PL-300 (Power BI Data Analyst)](certifications/pl-300/weekly-note-template.md)
@@ -11,12 +12,20 @@ Use this page to navigate certifications, projects, and resources.
 - [DP-600 (Fabric Analytics)](certifications/dp-600/weekly-note-template.md)
 
 ## 🛠 Projects
+
 - [Telemetry Lab](projects/telemetry-lab/weekly-note-template.md)
 - [Data API Builder SQL API](projects/dab-sql-api/weekly-note-template.md)
 - [Fabric POC](projects/fabric-poc/weekly-note-template.md)
 - [AI Copilot](projects/ai-copilot/weekly-note-template.md)
 
 ## 📚 Resources
+
 - [SQL Tuning Notes](resources/sql-tuning.md)
 - [Design Patterns in C#](resources/design-patterns.md)
 - [Azure Architecture Notes](resources/azure-architecture.md)
+
+## 📄 Study Resources (PDFs)
+
+- [AZ-204 Weekly Plan](pdfs/AZ-204_Weekly_Study_Plan.pdf)
+- [Master Calendar](pdfs/Certification_Master_Calendar.pdf)
+- [Roadmap Poster](pdfs/Certification_Timeline_Poster.pdf)
