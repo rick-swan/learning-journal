@@ -1,0 +1,7 @@
+title: Learning Journal
+description: Azure • .NET • DevOps • AI • Data
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
